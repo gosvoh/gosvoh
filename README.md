@@ -8,6 +8,7 @@ I am a second-year student at **ITMO University** with a degree in **software en
 <a href="https://www.buymeacoffee.com/gosvoh"><img height="30" src="./img/bmc.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/gosvoh/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
+
 ---
 
 ### 🔧 Technologies & Tools
