@@ -1,5 +1,5 @@
 # Hi there <img src="./img/wave.gif" width=30px>
-I am a second-year student at **ITMO University** with a degree in **software engineering**. I have a passion for learning something new.
+I am a third-year student at **ITMO University** with a degree in **software engineering**. I have a passion for learning something new.
 
 <p align='center'>
 <a href="https://vk.com/gosvoh"><img height="30" src="./img/VK.svg"></a>&nbsp;&nbsp;
