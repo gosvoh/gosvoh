@@ -12,14 +12,18 @@ I am a fourth-year student at **ITMO University** with a degree in **software en
 ---
 
 ### 🔧 Technologies & Tools
-![OS - Manjaro](https://img.shields.io/badge/OS-Manjaro-4f9d61?style=flat&logo=Manjaro&logoColor=white)
+![OS - Manjaro](https://img.shields.io/badge/OS-Debian-4f9d61?style=flat&logo=Debian&logoColor=white)
 ![Editor - IntelliJ IDEA](https://img.shields.io/badge/Editor-IntelliJ_IDEA-4f9d61?style=flat&logo=IntelliJ-IDEA&logoColor=white)
+![Editor - VS Code](https://img.shields.io/badge/Editor-VS_Code-4f9d61?style=flat&logo=visualstudiocode&logoColor=white)
 ![Code - Java](https://img.shields.io/badge/Code-Java-4f9d61?style=flat&logo=Java&logoColor=white)
-![Code - C++](https://img.shields.io/badge/Code-C++-4f9d61?style=flat&logo=c%2B%2B&logoColor=white)
 ![Code - HTML](https://img.shields.io/badge/Code-HTML-4f9d61?style=flat&logo=HTML5&logoColor=white)
 ![Code - JavaScript](https://img.shields.io/badge/Code-JavaScript-4f9d61?style=flat&logo=JavaScript&logoColor=white)
+![Code - TypeScript](https://img.shields.io/badge/Code-TypeScript-4f9d61?style=flat&logo=typescript&logoColor=white)
 ![Code - CSS](https://img.shields.io/badge/Code-CSS-4f9d61?style=flat&logo=css-wizardry&logoColor=white)
-![Code - PHP](https://img.shields.io/badge/Code-PHP-4f9d61?style=flat&logo=PHP&logoColor=white)
+![Framework - React](https://img.shields.io/badge/Framework-React-4f9d61?style=flat&logo=React&logoColor=white)
+![Framework - Next.js](https://img.shields.io/badge/Framework-Next.js-4f9d61?style=flat&logo=nextdotjs&logoColor=white)
+![Tool - Docker](https://img.shields.io/badge/Tool-Docker-4f9d61?style=flat&logo=Docker&logoColor=white)
+![DB - MySQL](https://img.shields.io/badge/DB-MySQL-4f9d61?style=flat&logo=MySQL&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gosvoh&theme=dark)
 
