@@ -16,6 +16,7 @@ I am a fourth-year student at **ITMO University** with a degree in **software en
 ![Editor - IntelliJ IDEA](https://img.shields.io/badge/Editor-IntelliJ_IDEA-4f9d61?style=flat&logo=IntelliJ-IDEA&logoColor=white)
 ![Editor - VS Code](https://img.shields.io/badge/Editor-VS_Code-4f9d61?style=flat&logo=visualstudiocode&logoColor=white)
 ![Code - Java](https://img.shields.io/badge/Code-Java-4f9d61?style=flat&logo=Java&logoColor=white)
+![Code - C Sharp](https://img.shields.io/badge/Code-C_Sharp-4f9d61?style=flat&logo=csharp&logoColor=white)
 ![Code - HTML](https://img.shields.io/badge/Code-HTML-4f9d61?style=flat&logo=HTML5&logoColor=white)
 ![Code - JavaScript](https://img.shields.io/badge/Code-JavaScript-4f9d61?style=flat&logo=JavaScript&logoColor=white)
 ![Code - TypeScript](https://img.shields.io/badge/Code-TypeScript-4f9d61?style=flat&logo=typescript&logoColor=white)
