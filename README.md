@@ -1,18 +1,21 @@
 # Hi there <img src="./img/wave.gif" width=30px>
 I am a fourth-year student at **ITMO University** with a degree in **software engineering**. I have a passion for learning something new.
 
-<p align='center'>
-<a href="https://vk.com/gosvoh"><img height="30" src="./img/VK.svg"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/gosvoh"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/gosvoh"><img height="30" src="./img/Instagram.png"></a>&nbsp;&nbsp;
-<a href="https://www.buymeacoffee.com/gosvoh"><img height="30" src="./img/bmc.png"></a>&nbsp;&nbsp;
+- 🌱 I’m currently learning React and Next.js
+- 📫 How to reach me:
+<p>
 <a href="https://www.linkedin.com/in/gosvoh/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://vk.com/gosvoh"><img height="30" src="./img/VK.svg"></a>&nbsp;&nbsp;
+<!-- <a href="https://twitter.com/gosvoh"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp; -->
+<!-- <a href="https://instagram.com/gosvoh"><img height="30" src="./img/Instagram.png"></a>&nbsp;&nbsp; -->
+<!-- <a href="https://www.buymeacoffee.com/gosvoh"><img height="30" src="./img/bmc.png"></a>&nbsp;&nbsp; -->
 </p>
 
 ---
 
 ### 🔧 Technologies & Tools
-![OS - Manjaro](https://img.shields.io/badge/OS-Debian-4f9d61?style=flat&logo=Debian&logoColor=white)
+![OS - Debian](https://img.shields.io/badge/OS-Debian-4f9d61?style=flat&logo=Debian&logoColor=white)
+![OS - Ubuntu](https://img.shields.io/badge/OS-Ubuntu-4f9d61?style=flat&logo=Ubuntu&logoColor=white)
 ![Editor - IntelliJ IDEA](https://img.shields.io/badge/Editor-IntelliJ_IDEA-4f9d61?style=flat&logo=IntelliJ-IDEA&logoColor=white)
 ![Editor - VS Code](https://img.shields.io/badge/Editor-VS_Code-4f9d61?style=flat&logo=visualstudiocode&logoColor=white)
 ![Code - Java](https://img.shields.io/badge/Code-Java-4f9d61?style=flat&logo=Java&logoColor=white)
@@ -37,6 +40,8 @@ I am a fourth-year student at **ITMO University** with a degree in **software en
 **gosvoh/gosvoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
+<!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
