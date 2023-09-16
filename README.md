@@ -1,11 +1,12 @@
 # Hi there <img src="./img/wave.gif" width=30px>
-I am a fourth-year student at **ITMO University** with a degree in **software engineering**. I have a passion for learning something new.
+I am a first-year master's student at **ITMO University**, specializing in **Web Technologies**, having Software Engineering bachelor's degree. I have a passion for learning something new.
 
 - 🌱 I’m currently learning React and Next.js
 - 📫 How to reach me:
 <p>
-<a href="https://www.linkedin.com/in/gosvoh/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<!-- <a href="https://www.linkedin.com/in/gosvoh/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a> -->
 <a href="https://vk.com/gosvoh"><img height="30" src="./img/VK.svg"></a>&nbsp;&nbsp;
+<a href="https://t.me/gosvoh"><img height="30" src="https://raw.githubusercontent.com/matomo-org/matomo-icons/master/src/socials/web.telegram.org.svg"></a>&nbsp;&nbsp;
 <!-- <a href="https://twitter.com/gosvoh"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp; -->
 <!-- <a href="https://instagram.com/gosvoh"><img height="30" src="./img/Instagram.png"></a>&nbsp;&nbsp; -->
 <!-- <a href="https://www.buymeacoffee.com/gosvoh"><img height="30" src="./img/bmc.png"></a>&nbsp;&nbsp; -->
