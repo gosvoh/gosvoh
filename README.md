@@ -1,7 +1,10 @@
 # Hi there <img src="./img/wave.gif" width=30px>
-I am a first-year master's student at **ITMO University**, specializing in **Web Technologies**, having Software Engineering bachelor's degree. I have a passion for learning something new.
+I hold a **Master's degree in Web Technologies** from ITMO University, building upon my **Bachelor's degree in Software Engineering**. I am passionate about continuous learning and staying at the forefront of web development.
 
-- 🌱 I’m currently learning React and Next.js
+- 🔭 I’m currently working on **web applications using React, Next.js, Node.js, and PostgreSQL**.
+- 🌱 I’m currently **deepening my expertise in advanced React and Next.js patterns**, and exploring **DevOps practices with Docker and CI/CD**.
+- 👯 I’m looking to collaborate on **innovative full-stack web projects or open-source initiatives focused on modern web technologies**.
+- 💬 Ask me about **web application architecture, database integration, or CI/CD pipelines**.
 - 📫 How to reach me:
 <p>
 <!-- <a href="https://www.linkedin.com/in/gosvoh/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a> -->
@@ -11,6 +14,8 @@ I am a first-year master's student at **ITMO University**, specializing in **Web
 <!-- <a href="https://instagram.com/gosvoh"><img height="30" src="./img/Instagram.png"></a>&nbsp;&nbsp; -->
 <!-- <a href="https://www.buymeacoffee.com/gosvoh"><img height="30" src="./img/bmc.png"></a>&nbsp;&nbsp; -->
 </p>
+
+<p><a href="https://gosvoh.ru">My website</a></p>
 
 ---
 
